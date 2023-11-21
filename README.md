@@ -81,7 +81,7 @@ Bienvenue sur mon profil github !
 - **Technologies utilisées**: ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white), ![LARAVEL](https://img.shields.io/badge/LARAVEL-FF2D20?style=flat&logo=laravel&logoColor=white), ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 - **Lien GitHub**: [Lien vers le dépôt GitHub](https://github.com/castanie-valentin/EventManager)
 
-- ## Mes Statistiques GitHub 📈
+## Mes Statistiques GitHub 📈
 
 ![Ruvix's GitHub stats](https://github-readme-stats.vercel.app/api?username=castanie-valentin&show_icons=true&theme=transparent)
 
