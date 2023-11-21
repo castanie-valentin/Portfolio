@@ -48,7 +48,7 @@ Dans un premier temps, nous avons élaboré l'architecture de l'application que 
 
 - ## Mes Statistiques GitHub 📈
 
-![Ruvix's GitHub stats](https://github-readme-stats.vercel.app/api?username=castanie-valentin/&show_icons=true&theme=auto)
+![Ruvix's GitHub stats](https://github-readme-stats.vercel.app/api?username=castanie-valentin&show_icons=true&theme=transparent)
 
 
 ## Contact 📬
