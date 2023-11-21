@@ -44,7 +44,12 @@ Dans un premier temps, nous avons élaboré l'architecture de l'application que 
 
 
 - **Technologies utilisées**: AzureSQL, JavaScript, NodeJS
-- **Lien GitHub**: Projet privé 
+- **Lien GitHub**: Projet privé
+
+- ## Mes Statistiques GitHub 📈
+
+![Ruvix's GitHub stats](https://github-readme-stats.vercel.app/api?username=castanie-valentin/&show_icons=true&theme=auto)
+
 
 ## Contact 📬
 - **Email**: valentin.castanie@etu.unilim.fr
