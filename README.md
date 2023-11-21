@@ -1,4 +1,4 @@
-# Salut, je suis Ruvix ! 👋
+# Yo, je suis Ruvix ! 👋
 
 Bienvenue sur mon profil github !
 
