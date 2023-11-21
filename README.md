@@ -1,5 +1,8 @@
 # Yo, je suis Ruvix ! 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=D%C3%A9veloppeur+web+)](https://git.io/typing-svg)
+
+
 Bienvenue sur mon profil github !
 
 
